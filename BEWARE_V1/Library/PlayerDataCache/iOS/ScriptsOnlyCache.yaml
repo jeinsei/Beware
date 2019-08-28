@@ -7,8 +7,6 @@ ScriptsOnlyBuild:
     - HiResScreenShots
     - NativeCameraScript
     - NativeGalleryScript
-    Unity.XR.ARCore.Editor.dll:
-    - UnityEditor.XR.ARCore.ARCoreSettings
     Unity.XR.ARFoundation.dll:
     - UnityEngine.XR.ARFoundation.ARCameraBackground
     - UnityEngine.XR.ARFoundation.ARCameraManager
@@ -97,41 +95,41 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9626}
     - Class: 114
-      Script: {instanceID: 9818}
+      Script: {instanceID: 9816}
     - Class: 114
-      Script: {instanceID: 9942}
+      Script: {instanceID: 9938}
     - Class: 114
-      Script: {instanceID: 9956}
+      Script: {instanceID: 9952}
     - Class: 114
-      Script: {instanceID: 9958}
+      Script: {instanceID: 9954}
     - Class: 114
-      Script: {instanceID: 10034}
+      Script: {instanceID: 10028}
     - Class: 114
-      Script: {instanceID: 10140}
+      Script: {instanceID: 10134}
     - Class: 114
-      Script: {instanceID: 10266}
+      Script: {instanceID: 10260}
     - Class: 114
-      Script: {instanceID: 10270}
+      Script: {instanceID: 10264}
     - Class: 114
-      Script: {instanceID: 10460}
+      Script: {instanceID: 10454}
     - Class: 114
-      Script: {instanceID: 10462}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10614}
+      Script: {instanceID: 10608}
     - Class: 114
-      Script: {instanceID: 10660}
+      Script: {instanceID: 10654}
     - Class: 114
-      Script: {instanceID: 10808}
+      Script: {instanceID: 10800}
     - Class: 114
-      Script: {instanceID: 10856}
+      Script: {instanceID: 10848}
     - Class: 114
-      Script: {instanceID: 10958}
+      Script: {instanceID: 10948}
     - Class: 114
-      Script: {instanceID: 11122}
+      Script: {instanceID: 11112}
     - Class: 114
-      Script: {instanceID: 11220}
+      Script: {instanceID: 11208}
     - Class: 114
-      Script: {instanceID: 11372}
+      Script: {instanceID: 11360}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -182,7 +180,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9588}
     - Class: 114
-      Script: {instanceID: 10140}
+      Script: {instanceID: 10134}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -1852,4 +1850,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/_SCENES/MENU.unity
   - Assets/_SCENES/ARFOUNDATION.unity
-  playerPath: /Users/noe/Desktop/dossier sans titre/ARFOUNDATION_GITHUB/AR FOUNDATION/BUILD_FINALV1
+  playerPath: /Users/noe/Documents/_PROJETS_UNITY/BEWARE_MAIN/BEWARE_V1/_BUILD/_iOS_BEWARE
